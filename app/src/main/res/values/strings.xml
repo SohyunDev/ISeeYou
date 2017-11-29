@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">ISeeYou</string>
     <string name="intro_name">I See You...</string>
+    <string name="main_send">보내기</string>
+    <string name="main_receive">받기</string>
 </resources>

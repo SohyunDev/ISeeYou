@@ -3,4 +3,6 @@
     <string name="intro_name">I See You...</string>
     <string name="main_send">메세지 보내기</string>
     <string name="main_receive">메세지 받기</string>
+    <string name="sendMessage_send">보내기</string>
+    <string name="receiveMessage_receive">받기</string>
 </resources>

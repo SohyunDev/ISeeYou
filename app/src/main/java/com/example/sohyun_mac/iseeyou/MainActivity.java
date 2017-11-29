@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         Button btn_mainGoSend, btn_mainGoRecieve;
 
-        btn_mainGoSend = (Button)findViewById(R.id.btn_mainGoSend);
+        btn_mainGoSend = (Button)findViewById(R.id.btn_GoSend);
         btn_mainGoSend.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
         });
-        btn_mainGoRecieve = (Button)findViewById(R.id.btn_mainGoReceive);
+        btn_mainGoRecieve = (Button)findViewById(R.id.btn_GoReceive);
         btn_mainGoRecieve.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){

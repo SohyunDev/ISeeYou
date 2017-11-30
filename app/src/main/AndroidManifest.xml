@@ -3,8 +3,9 @@
     package="com.example.sohyun_mac.iseeyou">
 
     <uses-permission android:name="android.permission.NFC" />
-    <uses-feature android:name="android.hardware.nfc" android:required="true" />
     <uses-permission android:name="android.permission.READ_SMS"/>
+
+    <uses-feature android:name="android.hardware.nfc" android:required="true" />
 
     <application
         android:allowBackup="true"
